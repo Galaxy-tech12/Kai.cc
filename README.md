@@ -1,4 +1,3 @@
-# Kai.cc
 --/ Kai.cc the best frfr
 --/unskiddable
 --[[
